@@ -2,7 +2,7 @@ package aci
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strings"
 
 	"github.com/ciscoecosystem/aci-go-client/client"

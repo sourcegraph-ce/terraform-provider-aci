@@ -3,7 +3,7 @@ package client
 import (
 	"errors"
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strconv"
 
 	"github.com/ciscoecosystem/aci-go-client/container"
